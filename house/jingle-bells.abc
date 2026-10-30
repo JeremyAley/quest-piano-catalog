@@ -1,0 +1,17 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: James Lord Pierpont, "The One Horse Open Sleigh" (1857), public domain.
+% Melody checked against PDMX public-domain transcriptions in 2026 (data/catalog/house-melodies.json).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Jingle Bells
+C:James Lord Pierpont
+M:4/4
+L:1/4
+Q:1/4=132
+K:G
+% Verse
+"G"D B A G | "G"D3 D/D/ | "G"D B A G | "C"E4 | "C"E c B A | "D"F4 | "D7"d d c A | "G"B4 |
+"G"D B A G | "G"D4 | "G"D B A G | "C"E3 E | "C"E c B A | "D7"d d d d | "D7"e d c A | "G"G2 z2 |
+% Chorus
+"G"B B B2 | "G"B B B2 | "G"B d G3/2 A/ | "G"B4 | "C"c c c3/2 c/ | "G"c B B B/B/ | "A7"B A A B | "D7"A2 d2 |
+"G"B B B2 | "G"B B B2 | "G"B d G3/2 A/ | "G"B4 | "C"c c c3/2 c/ | "G"c B B B/B/ | "D7"d d c A | "G"G4 |]

@@ -1,0 +1,18 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: English nursery rhyme tune, printed in the 18th century.
+% Melody taken note for note from a public-domain transcription: PDMX mxl/3/28/QmdknXbPtCy7F3gDKz8VP6gYHzMGKVZgDJGsdz7DpQ5hiS.mxl "Robber or London Bridge - children at Menhenniot" by MuseScore user Jamar Bentley (https://musescore.com/user/17847982/scores/4978436);
+% checked against 6 other transcriptions (best agreement 91%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:London Bridge Is Falling Down
+C:Traditional (English)
+M:4/4
+L:1/16
+Q:1/4=100
+K:F
+"F" =c3 =d =c3 _B | =A2 _B2 =c4 | "Gm" =G2 =A2 _B4 | =G2 =A2 _B4 |
+"F" =c3 =d =c2 _B2 | =A2 _B2 =c4 | =G2 =c2 =A2 =F2 |
+"F" =c3 =d =c3 _B | =A2 _B2 =c4 | "Gm" =G2 =A2 _B4 | =G2 =A2 _B4 |
+"F" =c3 =d =c2 _B2 | =A2 _B2 =c4 | =G2 =c2 =A2 =F2 |
+"F" =c3 =d =c3 _B | =A2 _B2 =c4 | "Gm" =G2 =A2 _B4 | =G2 =A2 _B4 |
+"F" =c3 =d =c2 _B2 | =A2 _B2 =c4 | =G2 =c2 =A2 =F2 |]

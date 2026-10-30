@@ -1,0 +1,17 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Scottish air, published with Burns's words in 1799 (Thomson's Select Collection).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/11/21/QmTgrTW7qVmPtrQRLNzCWsUPapirMav2Nfg4GTBGY6j4cn.mxl "Auld Lang Syne - Anonymous (Traditional)" by MuseScore user John__Smith (https://musescore.com/user/33131263/scores/5785873);
+% checked against 6 other transcriptions (best agreement 98%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Auld Lang Syne
+C:Traditional (Scottish)
+M:4/4
+L:1/16
+Q:1/4=84
+K:F
+"F" =C4 | =F6 =F2 =F4 =A4 | "C" =G6 =F2 =G4 =A2 =G2 | "F" =F6 =F2 =A4 =c4 |
+"Bb" =d12 | =d4 | "F" =c6 =A2 =A4 =F4 | "C" =G6 =F2 =G4 =A2 =G2 |
+"Bb" =F6 =D2 =D4 =C4 | =F12 | =d4 | "F" =c6 =A2 =A4 =F4 |
+"Gm" =G6 =F2 =G4 =d4 | "F" =c6 =A2 =A4 =c4 | "Bb" =d12 | =d4 |
+"F" =c6 =A2 =A4 =F4 | "C" =G6 =F2 =G4 =A2 =G2 | "Bb" =F6 =D2 =D4 =C4 | "F" =F12 |]

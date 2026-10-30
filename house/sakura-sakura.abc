@@ -1,0 +1,16 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Edo-period melody, first published in an 1888 koto collection (Wikipedia: Sakura Sakura).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/7/18/QmPEyQ3TWU9xEdsv8uNkCjwAbtjpWrZ8nroKGs25eozFV6.mxl "Sakura" by MuseScore user Pesanta (https://musescore.com/user/10657507/scores/5061278);
+% checked against 6 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Sakura Sakura
+C:Traditional (Japanese)
+M:4/4
+L:1/16
+Q:1/4=72
+K:Am
+"Am" =A4 =A4 "E" =B8 | "Dm" =A4 =A4 "E" =B8 | "Am" =A4 =B4 =c4 =B4 | "Dm" =A4 =B2 =A2 =F8 |
+"Am" =E4 =C4 =E4 =F4 | =E4 =E2 =C2 "E" =B,8 | "Am" =A4 =B4 =c4 =B4 | "Dm" =A4 =B2 =A2 =F8 |
+"Am" =E4 =C4 =E4 =F4 | =E4 =E2 =C2 "E" =B,8 | "Dm" =A4 =A4 "E" =B8 | "Dm" =A4 =A4 "E" =B8 |
+"Dm" =D4 =E4 =F8 | =B2 =A2 =F4 "Am" =E8 |]

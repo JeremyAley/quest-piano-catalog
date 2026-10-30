@@ -1,0 +1,15 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Tune 'Branle de l'Official' from Arbeau's Orchésographie (1589).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/0/15/QmadQCsuGD1XVWkuDVG1p4db92ih5oUvK77zv5uRuTGnH7.mxl "Ding Dong Merrily on High" by MuseScore user yozac (https://musescore.com/user/70270/scores/89270);
+% checked against 6 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Ding Dong Merrily on High
+C:Traditional (French)
+M:4/4
+L:1/16
+Q:1/4=100
+K:C
+"C" =c2 =c2 =d =c =B =A =G6 =G2 | "F" =A2 =c2 =c2 =B2 =c4 =c4 | =c2 =c2 =d =c =B =A "G" =G6 =G2 | "F" =A2 =c2 =c2 =B2 =c4 =c4 |
+"C" =g3 =f =e =f =g =e "Dm" =f3 =e =d =e =f =d | "C" =e3 =d =c =d =e =c "G" =d3 =c =B =c =d =B | "F" =c3 =B =A =B =c =A "G" =B3 =A =G2 =G2 | "F" =A2 =c2 =c2 =B2 =c4 =c4 |
+"C" =g3 =f =e =f =g =e "Dm" =f3 =e =d =e =f =d | "C" =e3 =d =c =d =e =c "G" =d3 =c =B =c =d =B | "F" =c3 =B =A =B =c =A "G" =B3 =A =G2 =G2 | "F" =A2 =c2 =c2 =B2 "C" =c4 =c4 |]

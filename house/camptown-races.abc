@@ -1,0 +1,21 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Stephen Foster, 1850 (died 1864).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/5/22/QmfGeo7CnWgJGiAhUkNgqNHfrsdhyc9VEshRKwxG6FE6wH.mxl "Stephen Foster - Camptown Races" by MuseScore user Urijah Montoya (https://musescore.com/user/18600852/scores/4829478);
+% checked against 6 other transcriptions (best agreement 96%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Camptown Races
+C:Stephen Foster
+M:2/4
+L:1/16
+Q:1/4=112
+K:Eb
+"Eb" _b2 | _b2 _b2 =g2 _b2 | =c'2 _b2 =g4 | "Bb" =g2 =f6 |
+=g2 =f4 z _b | "Eb" _b2 _b2 =g2 _b2 | =c'2 _b2 =g4 | "Bb" =f4 =g2 =f2 |
+"Eb" _e6 | _b2 | _b2 _b2 =g2 _b2 | =c'2 _b2 =g4 |
+"Bb" =g2 =f6 | =g2 =f4 z _b | "Eb" _b2 _b2 =g2 _b2 | =c'2 _b2 =g4 |
+"Bb" =f4 =g2 =f2 | "Eb" _e6 | z2 | _e3 _e =g2 _b2 |
+_e'8 | "Ab" =c'3 =c' _e'2 =c'2 | "Eb" _b6 =g _a | _b2 _b2 =g2 _b2 |
+=c'2 _b2 =g8 | "Fm" =f2 =g _a =g2 =f =f | "Eb" _e6 | z2 |
+_e3 _e =g2 _b2 | "Ab" _e'8 | =c'3 =c' _e'2 =c'2 | "Eb" _b6 =g _a |
+_b2 _b2 =g2 _b2 | =c'2 _b2 =g8 | "Bb" =f2 =g _a =g2 =f =f | "Eb" _e6 |]

@@ -1,0 +1,18 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: English traditional carol, printed by 1760 (Wikidata Q1512638).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/13/47/QmVUz4W1ofyonZTGGYKedzo71ohQbkwMQkmzuvmikLeWLw.mxl "God Rest You Merry Gentlemen" by MuseScore user minecraferEMB (https://musescore.com/user/13565881/scores/2977661);
+% checked against 6 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:God Rest Ye Merry, Gentlemen
+C:Traditional (English)
+M:4/4
+L:1/16
+Q:1/4=120
+K:Em
+"Em" z12 =E4 | =E4 =B4 =B4 =A4 | =G4 ^F4 =E4 =D4 | =E4 ^F4 =G4 =A4 |
+=B12 =E4 | =E4 =B4 =B4 =A4 | =G4 ^F4 =E4 =D4 | =E4 ^F4 =G4 =A4 |
+=B12 =B4 | "Am" =c4 =A4 "G" =B4 =c4 | =d4 =e4 "Em" =B4 =A4 | =G4 =E4 "B" ^F4 =G4 |
+"Am" =A16 | z8 "Em" =G4 =A4 | =B8 "Am" =c4 =B4 | "Em" =B4 =A4 =G4 ^F4 |
+=E8 =G2 ^F2 =E4 | "Am" =A8 "Em" =G4 =A4 | =B4 =c4 "D" =d4 =e4 | "Em" =B4 =A4 =G4 ^F4 |
+=E16 |]

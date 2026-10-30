@@ -1,0 +1,13 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: traditional English (West Country), public domain. Not Arthur Warrell's 1935 setting.
+% Melody checked against PDMX public-domain transcriptions in 2026 (data/catalog/house-melodies.json); the last note follows them.
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:We Wish You a Merry Christmas
+C:Traditional (English)
+M:3/4
+L:1/4
+Q:1/4=144
+K:G
+"D"D | "G"G G/A/ G/F/ | "C"E E E | "A7"A A/B/ A/G/ | "D"F D D | "B7"B B/c/ B/A/ | "Em"G E D/D/ | "C"E "D7"A F | "G"G2 D |
+"G"G G G | "D"F2 F | "Em"G "A7"F E | "D"D2 A | "G"B A G | "Em"d D D/D/ | "C"E "D7"A F | "G"G2 z |]

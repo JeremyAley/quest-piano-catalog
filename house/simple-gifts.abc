@@ -1,0 +1,17 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Shaker song by Joseph Brackett, 1848 (died 1882).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/6/49/QmNVEek2KoJNQ8SWAW3ayn8878BFd8f1VDsZbs9tKbvtuy.mxl "Joseph Bracken Jr - Simple Gifts" by MuseScore user Hallie Chambers (https://musescore.com/user/15370167/scores/4935208);
+% checked against 6 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Simple Gifts
+C:Joseph Brackett
+M:4/4
+L:1/16
+Q:1/4=100
+K:C
+"C" =G4 =G4 | =c4 =c2 =d2 =e2 =c2 =e2 =f2 | =g4 =g2 =g2 =e4 =d2 =c2 | "G" =d4 =d4 =d4 =d4 |
+=d2 =e2 =d2 =B2 =G4 =G4 | "C" =c2 =B2 =c2 =d2 =e4 =d2 =d2 | =e4 =f4 "G" =g6 =g2 | =d4 =d2 =e2 =d4 =c2 =c2 |
+=d4 =c2 =B2 "C" =c8 | =g8 =e6 =d2 | =e2 =f2 =e2 =d2 =c6 =d2 | =e4 =e2 =f2 =g4 =e4 |
+"G" =d4 =d2 =e2 =d6 =G2 | "C" =c8 =c6 =d2 | =e4 =e2 =f2 "G" =g4 =g2 =g2 | =d4 =d4 "C" =e4 =e2 =d2 |
+=c4 =c4 =c8 |]

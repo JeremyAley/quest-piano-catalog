@@ -1,0 +1,20 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: French melody 'Ah! vous dirai-je, maman' (published 1761).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/17/37/QmZPArNmZjRmwFS6LAzQYEs1XjwQcgWkgM8A71471vbLXu.mxl "Ah vous dirais-je Maman" by MuseScore user Didalter (https://musescore.com/user/28822763/scores/5107845);
+% checked against 6 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Twinkle, Twinkle, Little Star
+C:Traditional (French)
+M:4/4
+L:1/16
+Q:1/4=100
+K:C
+"C" =C4 =C4 =G4 =G4 | "F" =A4 =A4 "G" =G8 | "F" =F4 =F4 "C" =E4 =E4 | "G" =D4 =D4 "C" =C8 |
+=G4 =G4 "F" =F4 =F4 | "C" =E4 =E4 =E8 | "G" =D8 =G4 =G4 | "F" =F4 =F4 "C" =E4 =E4 |
+=E8 "G" =D8 | "C" =C4 =C4 =G4 =G4 | "F" =A4 =A4 "G" =G8 | "F" =F4 =F4 "C" =E4 =E4 |
+"G" =D4 =D4 "C" =C8 |
+"C" =C4 =C4 =G4 =G4 | "F" =A4 =A4 "G" =G8 | "F" =F4 =F4 "C" =E4 =E4 | "G" =D4 =D4 "C" =C8 |
+=G4 =G4 "F" =F4 =F4 | "C" =E4 =E4 =E8 | "G" =D8 =G4 =G4 | "F" =F4 =F4 "C" =E4 =E4 |
+=E8 "G" =D8 | "C" =C4 =C4 =G4 =G4 | "F" =A4 =A4 "G" =G8 | "F" =F4 =F4 "C" =E4 =E4 |
+"G" =D4 =D4 "C" =C8 |]

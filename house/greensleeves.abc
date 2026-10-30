@@ -1,0 +1,17 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: English tune, registered in 1580 and printed in Playford's Dancing Master (1686).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/0/36/QmapJuMz3bPyrZEaMQzwaN7YTtxgp4FAnqE37gRCrxtpuV.mxl "Greensleeves" by MuseScore user Isaac Watts (https://musescore.com/user/33012693/scores/5817063);
+% checked against 6 other transcriptions (best agreement 96%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Greensleeves
+C:Traditional (English)
+M:6/8
+L:1/16
+Q:1/4=96
+K:Em
+"Em" =E2 | =G4 =A2 =B3 =c =B2 | "D" =A4 ^F2 =D3 =E ^F2 | "Em" =G4 =E2 =E3 ^D =E2 |
+"B" ^F6 z4 | "Em" =E2 | =G4 =A2 =B3 =c =B2 | "D" =A4 ^F2 =D3 =E ^F2 |
+"Em" =G3 ^F =E2 ^D3 ^C ^D2 | =E6 =E6 | "G" =d6 =d3 ^c =B2 | "D" =A4 ^F2 =D3 =E ^F2 |
+"Em" =G4 =E2 =E3 ^D =E2 | "B" ^F4 ^D2 z6 | "G" =d6 =d3 ^c =B2 | "D" =A4 ^F2 =D3 =E ^F2 |
+"B" =G3 ^F =E2 ^D3 ^C ^D2 | "Em" =E6 =E4 |]

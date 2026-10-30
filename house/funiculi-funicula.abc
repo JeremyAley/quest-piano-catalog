@@ -1,0 +1,20 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Luigi Denza, 1880 (died 1922).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/10/10/QmSAtf48d8LoDPf21zg6PxGNUAjpDgFXmHbzvfVuqZwyQK.mxl "Funiculi Funicula (1)" by MuseScore user Earthlingt (https://musescore.com/user/9128922/scores/4978359);
+% checked against 6 other transcriptions (best agreement 94%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Funiculì, Funiculà
+C:Luigi Denza
+M:6/8
+L:1/16
+Q:1/4=150
+K:F
+"C" =e6 =d2 z4 | =e6 =d2 z4 | "Bb" =f4 =e2 =d4 =f2 | "C" =e6 =e2 z4 |
+=e6 =d2 z4 | =e6 =d2 z4 | "Bb" =f4 =e2 =d4 =f2 | "F" =c4 =A2 =A4 =A2 |
+=A4 =A2 =A4 =A2 | =A4 =A2 =A4 =A2 | =A4 =A2 =A4 =A2 | =f12 |
+"Gm" =g4 =f2 =d4 =f2 | "Dm" =d4 =A2 =A4 _B2 | "F" =c4 _B2 =A4 =G2 | =F4 z2 =f4 |
+"C" =e6 =d2 z4 | =e6 =d2 z4 | "Bb" =f4 =e2 =d4 =f2 | "C" =e6 =e2 z4 |
+=e6 =d2 z4 | =e6 =d2 z4 | "Bb" =f4 =e2 =d4 =f2 | "F" =c4 =A2 =A4 =A2 |
+=A4 =A2 =A4 =A2 | =A4 =A2 =A4 =A2 | =A4 =A2 =A4 =A2 | =f12 |
+"Gm" =g4 =f2 =d4 =f2 | "Dm" =d4 =A2 =A4 _B2 | "F" =c4 _B2 =A4 =G2 | =F4 z2 =f4 |]

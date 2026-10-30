@@ -1,0 +1,17 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: German folk tune; Ernst Anschütz's words 1824 (Wikipedia: O Tannenbaum).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/17/9/QmZaQHwQp9ySr7H8nctVCwAGTXSzh1rPd2W7QDcMXBuiAw.mxl "O Tannenbaum" by MuseScore user Hurdleners (https://musescore.com/user/10636897/scores/4846184);
+% checked against 6 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:O Christmas Tree
+C:Traditional (German)
+M:3/4
+L:1/16
+Q:1/4=92
+K:D
+"D" =A,4 | =D3 =D =D4 =E4 | ^F3 ^F ^F6 ^F2 | "A" =E2 ^F2 =G4 ^C4 |
+=E4 =D4 | =A,4 | "D" =D3 =D =D4 =E4 | ^F3 ^F ^F6 ^F2 |
+"A" =E2 ^F2 =G4 ^C4 | =E4 =D4 z2 =A2 | "Bm" =A2 ^F2 =B6 =A2 | "G" =A2 =G2 =G6 =G2 |
+"A" =G2 =E2 =A6 =G2 | "D" =G2 ^F2 ^F4 =A,4 | =D3 =D =D4 =E4 | ^F3 ^F ^F6 ^F2 |
+"A" =E2 ^F2 =G4 ^C4 | "D" =E4 =D4 |]

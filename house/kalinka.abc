@@ -1,0 +1,21 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Ivan Larionov, 1860 (died 1889).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/15/48/QmXvJAqPSFc2QR8KTyijNqZqxdWr4rxTaTd2Z48MFmuf2e.mxl "Kalinka" by MuseScore user Judoraft (https://musescore.com/user/22314592/scores/4867218);
+% checked against 5 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Kalinka
+C:Ivan Larionov
+M:2/4
+L:1/16
+Q:1/4=112
+K:Bm
+"Bm" =B4 | "D" =A4 ^F2 =G2 | =A4 ^F2 =G2 | =A4 =G2 ^F2 |
+"Em" =E4 =B2 =B2 | "D" =A3 =G ^F2 =G2 | =A4 ^F2 =G2 | =A4 =G2 ^F2 |
+"Em" =E4 | =B4 | "D" =A4 ^F2 =G2 | =A4 ^F2 =G2 |
+=A4 =G2 ^F2 | "Em" =E4 =B2 =B2 | "D" =A3 =G ^F2 =G2 | =A4 ^F2 =G2 |
+=A4 =G2 ^F2 | "Em" =E4 | =e8 | "G" =d8 |
+=B2 =d2 =c2 =B =A | =G4 =D4 | =B2 =d2 =c2 =B =A | =G4 =D4 |
+"A" =E4 =E2 ^F2 | =A2 =G2 ^F2 =E2 | "Bm" =D4 =D4 | =D4 =d4 |
+=B2 =d2 =A2 =B2 | "G" =G4 =D4 | =B2 =d2 =A2 =B2 | =G4 =D4 |
+"A" =E4 =E2 ^F2 | =A2 =G2 ^F2 =E2 | "Bm" =d4 =c4 | =B8 |]

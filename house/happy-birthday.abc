@@ -1,0 +1,18 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Melody of 'Good Morning to All' (Mildred and Patty Hill, 1893; Mildred died 1916). The US copyright claim on 'Happy Birthday' was ruled invalid in 2015 and the song entered the public domain under the 2016 settlement.
+% Melody taken note for note from a public-domain transcription: PDMX mxl/17/6/QmZ7stGne2nX6LLNK5AMKHk6vG6dUyfudzrq5Zsg2nxzHn.mxl "Happy Birthday" by MuseScore user SharpCharms (https://musescore.com/user/19153072/scores/4945304);
+% checked against 6 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Happy Birthday to You
+C:Mildred J. Hill
+M:3/4
+L:1/16
+Q:1/4=100
+K:D
+"D" =A2 =A2 | "G" =B4 =A4 =d4 | "A" ^c8 =A2 =A2 | "Em" =B4 =A4 =e4 |
+"D" =d8 =A2 =A2 | =a4 ^f4 =d4 | "G" ^c4 =B8- | =B8 =g2 =g2 |
+"D" ^f4 =d4 =e4 | =d8 |
+"D" =A2 =A2 | "G" =B4 =A4 =d4 | "A" ^c8 =A2 =A2 | "Em" =B4 =A4 =e4 |
+"D" =d8 =A2 =A2 | =a4 ^f4 =d4 | "G" ^c4 =B8- | =B8 =g2 =g2 |
+"D" ^f4 =d4 =e4 | =d8 |]

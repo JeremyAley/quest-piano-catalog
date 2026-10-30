@@ -1,0 +1,16 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Benjamin Hanby, 1864 (died 1867).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/14/7/QmW8Qiep32adsbqF7WBeq8nXqZUc46ssG6XsyZRa8xcVp4.mxl "Up on the Housetop (Rooftop)" by MuseScore user Robotir (https://musescore.com/user/27723253/scores/5332757);
+% checked against 5 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Up on the Housetop
+C:Benjamin Hanby
+M:4/4
+L:1/16
+Q:1/4=112
+K:C
+"C" =G4 =G2 =A2 =G4 =E2 =D2 | =C4 =E4 =G8 | "F" =A4 =A4 "C" =G4 =E4 | "G" =D4 =G4 =G8 |
+=G4 =G2 =A2 =G4 =E2 =D2 | "C" =C4 =E4 =G8 | "F" =A4 =A2 =A2 "C" =G2 =G2 =E4 | "G" =D4 =G4 "C" =C8 |
+=G4 =G2 =A2 =G4 =E2 =D2 | =C4 =E4 =G8 | "F" =A4 =A4 "C" =G4 =E4 | "G" =D4 =G4 =G8 |
+=G4 =G2 =A2 =G4 =E2 =D2 | "C" =C4 =E4 =G8 | "F" =A4 =A2 =A2 "C" =G2 =G2 =E4 | "G" =D4 =G4 "C" =C8 |]

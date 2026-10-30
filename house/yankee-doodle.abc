@@ -1,0 +1,22 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Traditional tune of the 18th century.
+% Melody taken note for note from a public-domain transcription: PDMX mxl/15/8/QmX9oTUkX2GZuYiYp67tZ8ryrycT8KZJgW5cKKH7DiXMxi.mxl "Yankee Doodle - Anonymous (Traditional)" by MuseScore user John__Smith (https://musescore.com/user/33131263/scores/5786962);
+% checked against 6 other transcriptions (best agreement 95%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Yankee Doodle
+C:Traditional (American)
+M:2/4
+L:1/16
+Q:1/4=112
+K:A
+"A" =E2 | =A2 =A2 =B2 ^c2 | =A2 ^c2 =B2 ^G2 | =A2 =A2 =B2 ^c2 |
+=A4 ^G2 =E2 | "D" =A2 =A2 =D2 ^c2 | =d2 ^c2 =B2 =A2 | "E" ^G2 =E2 ^F2 ^G2 |
+"D" =A4 =A2 z2 | ^F3 ^G ^F2 =E2 | ^F2 ^G2 =A4 | "A" =E3 ^F =E2 =D2 |
+^C2 =D2 =E2 z2 | "D" ^F3 ^G ^F2 =E2 | ^F2 ^G2 =A2 ^F2 | "E" =E2 =A2 ^G2 =B2 |
+"A" =A4 =A2 |
+"A" =E2 | =A2 =A2 =B2 ^c2 | =A2 ^c2 =B2 ^G2 | =A2 =A2 =B2 ^c2 |
+=A4 ^G2 =E2 | "D" =A2 =A2 =D2 ^c2 | =d2 ^c2 =B2 =A2 | "E" ^G2 =E2 ^F2 ^G2 |
+"D" =A4 =A2 z2 | ^F3 ^G ^F2 =E2 | ^F2 ^G2 =A4 | "A" =E3 ^F =E2 =D2 |
+^C2 =D2 =E2 z2 | "D" ^F3 ^G ^F2 =E2 | ^F2 ^G2 =A2 ^F2 | "E" =E2 =A2 ^G2 =B2 |
+"A" =A4 =A2 |]

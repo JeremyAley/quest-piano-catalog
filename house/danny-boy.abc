@@ -1,0 +1,17 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Irish air, published in George Petrie's Ancient Music of Ireland (1855).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/10/23/QmSheJWduM42U7MFSpEoF6UvY4SSgtmXBnBynirqAZKynT.mxl "Danny Boy" by MuseScore user SlurPapa (https://musescore.com/user/11295087/scores/5082744);
+% checked against 6 other transcriptions (best agreement 98%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Danny Boy (Londonderry Air)
+C:Traditional (Irish)
+M:4/4
+L:1/16
+Q:1/4=72
+K:C
+"G" =B,2 =C2 =D2 | "C" =E6 =D2 =E2 =A2 =G2 =E2 | "Dm" =D2 =C2 =A,4 "C" z2 =C2 =E2 =F2 | =G6 =A2 =G2 =E2 =C2 =E2 |
+"G" =D8 z2 =B,2 =C2 =D2 | "C" =E6 =D2 =E2 =A2 =G2 =E2 | "Dm" =D2 =C2 =A,4 "G" z2 =B,2 =C2 =D2 | "C" =E6 =F2 =E2 =D2 =C2 =D2 |
+=C8 "G" z2 =G2 =A2 =B2 | "F" =c6 =B2 "G" =B2 =A2 =G2 =A2 | "C" =G2 =E2 =C4 "G" z2 =G2 =A2 =B2 | "F" =c6 =B2 "Em" =B2 =A2 =G2 =E2 |
+"G" =D8 z2 =G2 =G2 =G2 | "Am" =e6 =d2 =d2 =c2 =A2 =c2 | "C" =G2 =E2 =C4 "G" z2 =B,2 =C2 =D2 | "C" =E2 =A2 =G2 =E2 "G" =D2 =C2 =A,2 =B,2 |
+"C" =C8 |]

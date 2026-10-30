@@ -1,0 +1,18 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: American round, published 1852.
+% Melody taken note for note from a public-domain transcription: PDMX mxl/14/23/QmWhyQKnEU8xgcB4Tpaa12xZ5AiFmL4xeyoCtwt876ciiX.mxl "Row Row Row Your Boat" by MuseScore user Visionaires (https://musescore.com/user/42215/scores/127109);
+% checked against 5 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Row, Row, Row Your Boat
+C:Traditional (American)
+M:6/8
+L:1/16
+Q:1/4=120
+K:G
+"G" =G6 =G6 | =G4 =A2 =B6 | =B4 =A2 =B4 =c2 | =d12 |
+=g2 =g2 =g2 =d2 =d2 =d2 | =B2 =B2 =B2 =G2 =G2 =G2 | =d4 =c2 =B4 =A2 | =G12 |
+"G" =G6 =G6 | =G4 =A2 =B6 | =B4 =A2 =B4 =c2 | =d12 |
+=g2 =g2 =g2 =d2 =d2 =d2 | =B2 =B2 =B2 =G2 =G2 =G2 | =d4 =c2 =B4 =A2 | =G12 |
+"G" =G6 =G6 | =G4 =A2 =B6 | =B4 =A2 =B4 =c2 | =d12 |
+=g2 =g2 =g2 =d2 =d2 =d2 | =B2 =B2 =B2 =G2 =G2 =G2 | =d4 =c2 =B4 =A2 | =G12 |]

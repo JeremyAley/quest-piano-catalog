@@ -1,0 +1,19 @@
+% House arrangement for the Quest Piano Trainer catalog (pianopipe/leadsheet.py generates the left hand).
+% Melody: Stephen Foster, 1848 (died 1864).
+% Melody taken note for note from a public-domain transcription: PDMX mxl/2/23/QmchjwvtpXykrxVrMHadPZLP7AHZ4ZgFjEg6qca7xpPFcm.mxl "Stephen Foster - Oh Susanna" by MuseScore user JournalMove (https://musescore.com/user/9147057/scores/5058916);
+% checked against 6 other transcriptions (best agreement 100%).
+% Chord symbols and arrangement: Quest Piano Trainer, CC0 1.0 (public domain dedication).
+X:1
+T:Oh! Susanna
+C:Stephen Foster
+M:4/4
+L:1/16
+Q:1/4=160
+K:G
+"G" =G2 =A2 | =B4 =d4 =d6 =e2 | =d4 =B4 =G6 =A2 | =B4 =B4 "D" =A4 =G4 |
+=A12 =G2 =A2 | "G" =B4 =d4 =d6 =e2 | =d4 =B4 =G6 =A2 | =B4 =B4 "D" =A4 =A4 |
+"G" =G12 | =G2 =A2 | =B4 =d4 =d6 =e2 | =d4 =B4 =G6 =A2 |
+=B4 =B4 "D" =A4 =G4 | =A12 =G2 =A2 | "G" =B4 =d4 =d6 =e2 | =d4 =B4 =G6 =A2 |
+=B4 =B4 "D" =A4 =A4 | "C" =G12 | =c8 =c8 | =e4 =e8 =e4 |
+"G" =d4 =d4 =B4 =G4 | "D" =A12 =G2 =A2 | "G" =B4 =d4 =d6 =e2 | =d4 =B4 =G6 =A2 |
+=B4 =B4 "D" =A4 =A4 | "G" =G12 |]
